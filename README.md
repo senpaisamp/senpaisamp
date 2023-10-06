@@ -1,6 +1,6 @@
 # senpaisamp
 
-Cybersecurity student • Junior Cybersecurity Consultant • Offensive Security • Hobby ⚑ Collector
+Red Team Operator • Offensive Security • Hobby ⚑ Collector
 
 ---
 <p align="center">
